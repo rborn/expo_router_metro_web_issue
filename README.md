@@ -1,15 +1,5 @@
-# Expo Router Example
+# Expo Router Example for web issues
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Clone, `yarn install` and try to run `yarn web`,metro will complain about 
+`Unable to resolve "./Libraries/Components/DatePicker/DatePickerIOS" from "node_modules/react-native/index.js"`
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
